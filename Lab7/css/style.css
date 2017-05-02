@@ -1,0 +1,26 @@
+html {
+	font-family: Arial;
+    font-size: 12px;
+      }
+body {
+	line-height: 2em;
+}
+a    {
+	color: #727272;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.mune {
+	font-size: 14px;
+	color: #b9f605;
+	font-weight:bold; 
+}
+.like{
+	color: white;
+}
+.like:hover{
+	color: #b9f605;
+	text-decoration: none;
+}
