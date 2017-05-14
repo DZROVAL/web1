@@ -1,0 +1,15 @@
+#titlediv{background-image: url(pi/left_nav_title.gif);width:183px ;height:38px; color: white;
+			padding-top: 9px;padding-bottom: 0px;margin-bottom: 0px;}
+
+ul{list-style-image: url(pi/left_cur.gif);background-image: url(pi/left_nav_txt.gif); 
+	;width: 130px;height: 90px;margin-top: 0px;margin-bottom: 0px;}
+#footerdiv{background-image: url(pi/left_nav_bottom.gif);width:183px ;height:35px;margin-top: 0px; margin-bottom: 0px;}
+li{background-image:url(pi/left_nav_item.gif); ;margin-left: 10px;padding-top: 5px;
+	background-position: -3em 100%;font-style: '微软雅黑';background-repeat:no-repeat;
+	}
+
+
+a:link{color: black;text-decoration: none;}
+a:visited{color: black;text-decoration: none;}
+.ip:link{color: #FF0000;text-decoration: none;}
+.ip:visited{color: #FF0000;text-decoration: none;}

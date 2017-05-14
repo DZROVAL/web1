@@ -1,0 +1,10 @@
+body{background-image: url(pi/bj.png);background-repeat: no-repeat;}
+#tou{background-image: url(pi/header.png);width: 175px;height: 65px;}
+li{background-image: url(pi/baibiaoti.png);width: 170px;height: 36px;text-align: center;
+	margin-bottom: 10px;}
+ul{list-style-type: none;padding-top: 0px;padding-left: 20px;}
+a:link{color: gray;text-decoration: none;text-align: center;}
+a:visited{color: gray;text-decoration: none;text-align: center;}
+#sp{background-image: url(pi/lvbiaoti.png);width: 170px;height: 36px;background-position: 50% 50%;}
+#k:link{color: white;}
+#k:visited{color: white;}
