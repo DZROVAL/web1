@@ -1,0 +1,25 @@
+#all{
+	width: 1050px;
+}
+.some{
+	width: 200px;
+	height: 200px;
+	margin-right: 10px;
+	border: 1px solid #333333;
+	float: left;
+}
+.image{
+	width: 200px;
+	height: 160px;
+	float: left;
+}
+.name{
+	width: 200px;
+	height: 40px;
+	font-size: 15px;
+	float: left;
+}
+.tupian{
+	width: 200px;
+	height: 160px;
+}
