@@ -1,0 +1,127 @@
+.neirongkuang{
+	margin:0 auto;
+	background-position:center top;
+	width:1000px;
+    clear:both;
+}
+.zuocekuangjia{
+	float:left;
+    width:700px;
+}
+.youcekuangjia{
+	float:right;
+	width:300px;
+
+}
+.weizhi{
+	width:700px;
+	height:40px;
+	font-size:15px;
+}
+.weizhi p{
+	padding:20px 0px 0px 20px;
+}
+.dabiaoti{
+	margin:20px 0 0 0;
+	text-align: center;
+	font-weight: bolder;
+	font-size:20px;
+	height:40px;
+	border-bottom:1px solid #c9baa5;
+}
+.riqi{
+	height:40px;
+	width:700px;
+}
+.riqi p{
+	text-align: center;
+	margin-top: 5px;
+	font-size:12px;
+	color:#757575;
+}
+.zhengwen p{
+	line-height: 28px;
+	padding:10px 10px 10px 10px;
+	font size:14px;
+	text-indent: 2em;
+	text-align: left;
+	border-bottom:1px solid #c9baa5;
+}
+.zhengwen h1{
+
+	text-align: center;
+
+}
+.zhengwendibu{
+	height:40px;
+	width:700px;
+}
+.shangyipian{
+	float:left;
+	height:40px;
+	width:350px;
+}
+.xiayipian{
+	float:right;
+	height:40px;
+	width:350px;
+}
+.shangyipian p{
+	float:left;
+	margin:10px;
+}
+.xiayipian p{
+	float:right;
+	margin:10px;
+}
+.zuijingengxinkuang{
+	width:280px;
+	margin:50px 20px 40px 10px;
+	background:url(../images/bg.png);
+	border:1px solid #c9baa5;
+}
+.tupiankuang{
+
+	margin-top:10px;
+	width:280px;
+}
+.tupiankuang p{
+	text-align: center;
+}
+.wenzikuang p{
+	font-size:12;
+	text-align: left;
+	margin:15px 30px 15px 30px;
+}
+.renwukuang{
+	margin:40px 0 0 10px;
+	padding-top: 20px;
+	background:url(../images/show_bg.png);
+	height:362px;
+	width:280px;
+	text-align: center;
+	font-size:12px;
+}
+.renwukuang p{
+	margin:5px 10px 0 10px;
+	text-indent: 2em;
+	font-size:14px;
+	text-align: left;
+	font-weight: bolder;
+
+}
+.mingzi{
+	color:red;
+}
+.zuoji{
+	margin:20px 0 0 30px;
+	float:left;
+}
+.youji{
+	margin:20px 0 0 0;
+	float:left;
+}
+.gengduo{
+	margin:23px 0 0 5px;
+	float:left;
+}

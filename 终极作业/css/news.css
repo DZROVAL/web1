@@ -1,0 +1,217 @@
+/*顶部框架*/
+*{
+	margin:0 auto;
+	padding:0;
+	border:0;
+	font-family:宋体；
+	font-size:12px;
+	color:#522a06;
+}
+body{
+	background:url(../images/);
+}
+li{
+
+	text-align:left;
+	list-style-position:inside;
+	list-style-type: none;
+}
+a:link{
+	text-decoration:none;
+	color:#522a06;
+}
+a:hover{
+	text-decoration:underline;
+}
+.dingbukuang{
+	background:url(../images/);
+	background-position: center top;
+	height:205px;
+	margin:0 auto;
+}
+.logokuang{
+	background-position:center top;
+	height:165px;
+	width:1000px;
+}
+.logokuang img{
+	margin:38px 0px 0px 25px;
+	float: left;
+}
+#mingzi{
+	font-style: 微软雅黑；
+	font-size:70px;
+	float: left;
+	text-align: left;
+}
+.daohangkuang{
+	background:url(../images/orange.jpg);
+	background-position: center;
+	height:40px;
+}
+.daohangneirong{
+	width:1000px;
+	height:40px;
+	background:none;
+	background-position: center;
+}
+.chaolianjie{ 
+	margin-top: 8px;
+	float:left;
+	width:700px;
+	color:#fff;
+	height:32px;
+}
+.chaolianjie a{
+	margin:0px 5px 0px 5px;
+	font-weight: bolder;
+	color:#fff;
+	height:40px;
+	font-size: 12px;
+
+}
+.chaolianjie a:hover{
+	color:#f9f603;
+	text-decoration:none;
+}
+.sousuoneirong{
+	float:left;
+	height:40px;
+	width:300px;
+
+}
+.sousuobaikuang{
+	float:right;
+	height:40px;
+	width:120px;
+	
+}
+.baikuang{
+	height:20px;
+	width:120px;
+	margin: 10px 0px 10px 0px;
+
+
+}
+.sousuoanniu{
+	float:right;
+	height:40px;
+	width:40px;
+}
+.anniu{
+	margin:10px 0px 10px 1px;
+  	height:20px;
+	background-color:#000;
+	color:#fff;
+	border:1px solid #f8f5ee;
+}
+/*内容页*/
+#center{
+	width: 1000px;
+	margin-top: 10px;
+}
+#center-left{
+	width: 700px;
+	float: left;
+}
+#center-left-top{
+	width: 700px;
+	height: 50px;
+	text-align: left;
+}
+#center-left-center{
+	width: 700px;
+}
+#center-left-center p{
+	line-height: 28px;
+	padding:10px 10px 10px 10px;
+	font size:14px;
+	text-indent: 2em;
+	text-align: left;
+	border-bottom:1px solid #c9baa5;
+}
+.tuanzhishu{
+	float: left;
+}
+#center-left-bottom{
+	height:40px;
+	width:700px;
+}
+#center-left-bottom-left{
+	float:left;
+	height:40px;
+	width:350px;
+}
+#center-left-bottom-right{
+	float:right;
+	height:40px;
+	width:350px;
+}
+#center-right{
+	width: 250px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+#center-right-top{
+	width: 250px;
+	margin-left: 50px;
+	border: 1px solid #c9baa5;
+	float: left;
+	background:url(../images/orange.jpg);
+	margin-bottom: 30px;
+}
+img{
+	width: 250px;
+	text-align: center;
+}
+#center-right-top li{
+	list-style-type: none;
+	text-align: center;
+	line-height: 40px;
+}
+#center-right-center{
+	width: 250px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 50px;
+	text-align: center;
+}
+#center-right-center img{
+	width: 250px;
+	text-align: center;
+}
+#center-right-bottom{
+	width: 250px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 50px;
+	text-align: center;
+}
+#center-right-bottom img{
+	width: 250px;
+	text-align: center;
+}
+/*页脚*/
+.yejiaokuang{
+	width:1000px;
+	padding-top: 10px;
+	clear:both;
+	background:url(../images/);
+	background-position: center;
+	height:105px;
+}
+.youqinglianjiekuang p{
+	font-size:12px;
+	padding:40px 0 0 0;
+	text-align: center;
+	font-weight: bold;
+}
+.yejiaotupiankuang p{
+	text-align: center;
+	margin:5px;
+}
+.beiankuang p{
+	text-align: center;
+	font-size:12px;
+}
